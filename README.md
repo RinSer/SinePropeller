@@ -1,0 +1,3 @@
+# Equalizer SinePropeller
+
+## Processing Sketch
